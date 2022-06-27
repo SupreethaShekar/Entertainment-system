@@ -7,7 +7,9 @@ Entertainment Sytem allows a user, i.e. admin or user, to either Enter, Search, 
 This code is written using a knowledge of fundamental programming concepts.
 
 Admin
-The admin has full access over the system and can Enter a record, Delete a record, Search for a specific record, or See all records.
+The admin has full access over the system and can Enter a record, 
+Delete a record,
+Search for a specific record, or See all records.
 
 Username: admin
 Password: mcs123
